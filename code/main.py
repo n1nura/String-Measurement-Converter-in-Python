@@ -1,4 +1,4 @@
-# Kanakaratne_Ninura_20909488_ISE Assignment_Production Code
+#Written by Ninura Kanakaratne
 
 from InputHandler import InputHandler
 from ConvertCase import ConvertCase
